@@ -1,2 +1,2 @@
 # https://robsonhsilva.github.io/HotelParaiso/
-Projeto Hotel Paraíso Foi criado com aulas np youtube.
+O Projeto Hotel Paraíso foi criado com aulas do youtube no canal nodestudio.
